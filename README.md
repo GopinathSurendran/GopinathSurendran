@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/GopinathSurendran/<OWNER>/<OWNER>/gopi.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/GopinathSurendran/main/images/gopi.png)](https://github.com/GopinathSurendran/)
 <!--
 **GopinathSurendran/GopinathSurendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
