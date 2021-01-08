@@ -1,11 +1,15 @@
-<h1>Hi there, I am Gopinath Surendran 👋</h1>
+<h1>Hi, I am Gopinath Surendran 👋</h1>
 <!-- [![Header](https://raw.githubusercontent.com/GopinathSurendran/GopinathSurendran/main/images/gopi_profile.png)](https://github.com/GopinathSurendran/) -->
 
-I am a full stack developer with more interest on front end coding. I am currently living in Toronto, Canada. I am from India.
+<p><em>Full stack developer with more interest on front end coding.</em></p>
+<p><em>Working at Infosys limited.</em></p>
+<p><em>From India, currently living in Canada.</em></p>
+
 <p align='center'>
     <a href="https://www.youtube.com/channel/UCyxny8lsaIIBN1EOi0fS8qQ"><img height="32" src="https://raw.githubusercontent.com/GopinathSurendran/GopinathSurendran/main/images/youtube-icon.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/gopinath-surendran-ba1183143?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BlBEmtKmT3W1Ac8npOkU1w%3D%3D"><img height="32" src="https://raw.githubusercontent.com/GopinathSurendran/GopinathSurendran/main/images/linkedin-icon.png"></a>
 </p>
+<hr/>
 
 Technologies I work with:
 <p>
